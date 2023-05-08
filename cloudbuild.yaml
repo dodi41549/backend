@@ -5,4 +5,4 @@ steps:
   - '-c'
   - |
     gcloud app deploy app.yaml --quiet
-    gcloud app deploy backend.php --quiet
+    gcloud app deploy index.php --quiet
